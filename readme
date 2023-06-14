@@ -1,0 +1,9 @@
+echo "# webcam-scan" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lrh3939/webcam-scan.git
+git push -u origin main
+
+测试 个看看 看看 看看的
